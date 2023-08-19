@@ -23,4 +23,5 @@ function fatorial(valor) {
 // Teste a função
 console.log(fatorial(5)); // Saída esperada: 120
 console.log(fatorial(0)); // Saída esperada: 1
+console.log(fatorial(3)); // Saída esperada: 6
 console.log(fatorial(10)); // Saída esperada: 3628800
