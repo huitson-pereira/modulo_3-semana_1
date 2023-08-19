@@ -1,0 +1,1 @@
+Resolução dos exercicios da samana 1 do módulo 3
